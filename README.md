@@ -43,3 +43,10 @@ GPT is for Industry specific information and compliance and also OSHA and ISA 85
 - Question 2: What is DELS topology and can you explain where to use it?
 
 ![info](https://github.com/balakreshnan/mfggpts/blob/main/images/mfgopsoutput3.jpg 'RagChat')
+
+- Question: What are the options for PPE in a plant floor?
+- how to implement PPE in plant floor?
+- what are the process if there is PPE incident?
+- what are the ISO paper work needed for PPE incidents?
+- What are the cyber security practicse to apply in factory floor for lines?
+- What are the best practices for OEE?
