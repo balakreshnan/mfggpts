@@ -50,3 +50,6 @@ GPT is for Industry specific information and compliance and also OSHA and ISA 85
 - what are the ISO paper work needed for PPE incidents?
 - What are the cyber security practicse to apply in factory floor for lines?
 - What are the best practices for OEE?
+- Provide me details for cybersecurity framework for manufacturing plant floors?
+- what are the best practices for supply chain security measures?
+- what are the personal security measures?
