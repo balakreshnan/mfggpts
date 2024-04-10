@@ -53,3 +53,4 @@ GPT is for Industry specific information and compliance and also OSHA and ISA 85
 - Provide me details for cybersecurity framework for manufacturing plant floors?
 - what are the best practices for supply chain security measures?
 - what are the personal security measures?
+- What are the best practices for  physical security?
