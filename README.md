@@ -7,7 +7,7 @@ GPT is for Industry specific information and compliance and also OSHA and ISA 85
 
 ## Architecture
 
-![info](https://github.com/balakreshnan/Samples2024/blob/main/mfggpts/images/mfggpts1.jpg 'RagChat')
+![info](https://github.com/balakreshnan/mfggpts/blob/main/images/mfggpts1.jpg 'RagChat')
 
 ## pre-requisites
 
@@ -37,9 +37,9 @@ GPT is for Industry specific information and compliance and also OSHA and ISA 85
 
 - Question: What are the measures to safe guard accidents in manufacturing floor?
 
-![info](https://github.com/balakreshnan/Samples2024/blob/main/mfggpts/images/mfgopsoutput1.jpg 'RagChat')
-![info](https://github.com/balakreshnan/Samples2024/blob/main/mfggpts/images/mfgopsoutput2.jpg 'RagChat')
+![info](https://github.com/balakreshnan/mfggpts/blob/main/images/mfgopsoutput1.jpg 'RagChat')
+![info](https://github.com/balakreshnan/mfggpts/blob/main/images/mfgopsoutput2.jpg 'RagChat')
 
 - Question 2: What is DELS topology and can you explain where to use it?
 
-![info](https://github.com/balakreshnan/Samples2024/blob/main/mfggpts/images/mfgopsoutput3.jpg 'RagChat')
+![info](https://github.com/balakreshnan/mfggpts/blob/main/images/mfgopsoutput3.jpg 'RagChat')
