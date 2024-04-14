@@ -2,8 +2,9 @@
 
 Idea is to create a GPT model that can generate manufacturing related text. This can be used for generating manufacturing related text for various applications like chatbots, documentation, etc.
 
-GPT is for Industry specific information and compliance and also OSHA and ISA 85 type of information.
+GPT is for Industry specific information and compliance and also OSHA, ISA 95, Cyber security information.
 
+Intent of this project is to provide Standards and compliance for Manufacturing industry in your finger tips.
 
 ## Architecture
 
@@ -54,3 +55,13 @@ GPT is for Industry specific information and compliance and also OSHA and ISA 85
 - what are the best practices for supply chain security measures?
 - what are the personal security measures?
 - What are the best practices for  physical security?
+
+## Future Enhancements
+
+- Expand to different countries specific standards and compliance
+- Enable Student and Faculty to use this for their research and projects
+- Enable industry to colloborate and share their best practices
+- Fine tune model to be more specific to manufacturing industry
+- Provide options to expand into manufacturing companies to add their own data and make it their own GPT model
+- Expand this to multi model to include images, videos, etc.
+- Be the industry Hub for all manufacturing related information
