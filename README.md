@@ -6,6 +6,8 @@ GPT is for Industry specific information and compliance and also OSHA, ISA 95, C
 
 Intent of this project is to provide Standards and compliance for Manufacturing industry in your finger tips.
 
+![info](https://github.com/balakreshnan/mfggpts/blob/main/images/mfgopsoutput4.jpg 'RagChat')
+
 ## Architecture
 
 ![info](https://github.com/balakreshnan/mfggpts/blob/main/images/mfggpts1.jpg 'RagChat')
