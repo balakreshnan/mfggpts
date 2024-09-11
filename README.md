@@ -4,6 +4,9 @@ Idea is to create a GPT model that can generate manufacturing related text. This
 
 GPT is for Industry specific information and compliance and also OSHA, ISA 95, Cyber security information.
 
+
+![info](https://github.com/balakreshnan/mfggpts/blob/main/images/mfggpt1.jpg 'RagChat')
+
 Intent of this project is to provide Standards and compliance for Manufacturing industry in your finger tips.
 
 ![info](https://github.com/balakreshnan/mfggpts/blob/main/images/mfgopsoutput4.jpg 'RagChat')
