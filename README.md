@@ -4,6 +4,7 @@ Idea is to create a GPT model that can generate manufacturing related text. This
 
 GPT is for Industry specific information and compliance and also OSHA, ISA 95, Cyber security information.
 
+[Factory GPT](https://16292869-7313-5215-b42e-4b03d87c7d94.azurewebsites.net/)
 
 ![info](https://github.com/balakreshnan/mfggpts/blob/main/images/mfggpt1.jpg 'RagChat')
 
